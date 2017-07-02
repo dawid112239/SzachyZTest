@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\source\main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\plansza.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\source\pojedynczy_gracz.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\source\res.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\plansza.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="..\source\pojedynczy_gracz.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{2bd753de-3766-4112-a5c5-d598a3eb1c58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{254af5c5-edd4-496e-925c-59a44900f1f2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\source\icon1.ico">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\B_GONIEC_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\B_HETMAN_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\B_KROL_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\B_PION_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\B_SKOCZEK_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\B_WIEZA_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\C_GONIEC_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\C_HETMAN_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\C_KROL_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\C_PION_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\C_SKOCZEK_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\C_WIEZA_B.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap13.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap14.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap15.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap16.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap17.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap18.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap19.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap20.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap21.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap22.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap23.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap24.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap25.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap26.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap27.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap28.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap29.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap30.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\bitmap31.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\..\BM_przyciski.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\BM_przyciski.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+    <Image Include="..\res\BM_PRO.bmp">
+      <Filter>Resource</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="..\source\res.rc" />
+  </ItemGroup>
+</Project>
