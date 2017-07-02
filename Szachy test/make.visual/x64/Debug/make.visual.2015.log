@@ -1,0 +1,23 @@
+﻿C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  plansza.cpp
+  main.cpp
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1394): warning C4244: '=': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1411): warning C4244: '=': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1428): warning C4244: '=': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1443): warning C4244: '=': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1459): warning C4244: '=': conversion from 'double' to 'DWORD', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1553): warning C4244: 'initializing': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1554): warning C4244: 'initializing': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1555): warning C4244: 'initializing': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1556): warning C4244: 'initializing': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1557): warning C4244: 'initializing': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1568): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1572): warning C4018: '<': signed/unsigned mismatch
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1577): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1586): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1595): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1604): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+c:\users\dawid olejniczak\desktop\szachy\source\main.cpp(1613): warning C4244: '=': conversion from 'double' to 'BYTE', possible loss of data
+  Generating Code...
+  make.visual.2015.vcxproj -> C:\Users\Dawid Olejniczak\Desktop\Szachy\make.visual\\..\bin\szachy.exe
+  make.visual.2015.vcxproj -> C:\Users\Dawid Olejniczak\Desktop\Szachy\make.visual\\..\bin\szachy.pdb (Partial PDB)

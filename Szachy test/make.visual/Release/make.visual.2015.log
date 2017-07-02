@@ -1,0 +1,10 @@
+﻿  main.cpp
+  plansza.cpp
+  pojedynczy_gracz.cpp
+  Generating code
+  25 of 80 functions (31.3%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  make.visual.2015.vcxproj -> C:\Users\Dawid Olejniczak\Desktop\Szachy\make.visual\\..\bin\szachy.exe
+  make.visual.2015.vcxproj -> C:\Users\Dawid Olejniczak\Desktop\Szachy\make.visual\\..\bin\szachy.pdb (Full PDB)
